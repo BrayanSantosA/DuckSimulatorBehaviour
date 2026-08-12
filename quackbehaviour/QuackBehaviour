@@ -1,0 +1,7 @@
+package quackbehaiviour;
+
+public interface QuackBehaviour {
+	
+	public void quack();
+	
+}
