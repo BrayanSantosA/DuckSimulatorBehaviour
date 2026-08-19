@@ -3,7 +3,7 @@ package quackbehaviour;
 public class MuteQuack implements QuackBehaviour {
 	
 	public void quack() {
-		System.out.println("<< Silence >>");
+		System.out.println(" Silence ");
 	}
 
 }
